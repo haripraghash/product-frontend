@@ -49,8 +49,8 @@ steps:
     SonarCloud: 'sonarcloud'
     organization: 'haripraghash'
     scannerMode: 'MSBuild'
-    projectKey: 'product-frontend'
-    projectName: 'product-frontend'
+    projectKey: 'haripraghash_product-frontend'
+    projectName: 'haripraghash_product-frontend'
     # extraProperties: |
     #   # Additional properties that will be passed to the scanner,
     #   # Put one key=value per line, example:
